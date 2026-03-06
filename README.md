@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Leyla 👋
 
-<!--
-**leylaerdemir/leylaerdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student interested in Artificial Intelligence and intelligent systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in AI and data-driven systems
+- Developing machine learning and backend applications
+- Currently working on healthcare data analysis projects
+
+## Projects
+
+- AI Medical Checkup System
+- Liver Disease Risk Prediction
+- Voice Controlled Medical Data Entry (in progress)
+
+## Technologies
+
+Python • Machine Learning • Data Analysis • Backend Development
+
+## Goals
+
+Develop intelligent systems that assist professionals in healthcare and data analysis.
