@@ -1,4 +1,4 @@
-<img width="382" height="160" alt="Ekran Resmi 2026-03-16 21 56 31" src="https://github.com/user-attachments/assets/91307365-b6a1-43f8-ac8d-9e079012031c" />
+<img width="1280" height="320" alt="Software Developer" src="https://github.com/user-attachments/assets/67a32c8e-6edd-435d-b385-1dd311d29b09" />
 
 # Hi, I'm Leyla 👋
 
