@@ -1,4 +1,4 @@
-![b55591273ef603f85380259fc01f17ee](https://github.com/user-attachments/assets/eafe92b3-b108-42b5-a3a3-b70d34d838d2)
+<img width="382" height="160" alt="Ekran Resmi 2026-03-16 21 56 31" src="https://github.com/user-attachments/assets/91307365-b6a1-43f8-ac8d-9e079012031c" />
 
 # Hi, I'm Leyla 👋
 
