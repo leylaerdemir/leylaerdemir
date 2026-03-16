@@ -28,8 +28,6 @@ Software Engineering student focused on Artificial Intelligence, intelligent sys
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🧠 [AI Medical Check-Up Recommendation System](https://github.com/leylaerdemir/ai-checkup-system)
 A machine learning based system that analyzes patient data and provides personalized medical check-up recommendations.
 
