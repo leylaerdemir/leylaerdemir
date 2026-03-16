@@ -18,7 +18,7 @@ Software Engineering student focused on Artificial Intelligence, intelligent sys
 🗄 **Database:** SQL, SQLite  
 🛠 **Tools:** Git, GitHub, VS Code, Google Colab
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
 ![Leyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=leylaerdemir&show_icons=true&theme=tokyonight)
 
