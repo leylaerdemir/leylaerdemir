@@ -1,23 +1,21 @@
 # Hi, I'm Leyla 👋
 
-Software Engineering student interested in Artificial Intelligence and intelligent systems.
+Software Engineering student focused on Artificial Intelligence, intelligent systems, and real-world problem solving.
+I enjoy developing data-driven software systems that combine machine learning, automation, and backend technologies.
 
 ## About Me
-
-- Interested in AI and data-driven systems
-- Developing machine learning and backend applications
-- Currently working on healthcare data analysis projects
+Interested in AI systems, automation technologies, and data-driven applications
+Developing machine learning models and intelligent backend systems
+Working on projects related to healthcare technologies, assistive systems, and disaster response platforms
+Curious about advanced engineering systems and real-world AI applications
 
 ## Projects
+-AI Medical Check-Up Recommendation System
+-Navicane – AI Assistive Navigation System for the Visually Impaired
+-Disaster Relief Management System
 
-- AI Medical Checkup System
-- Liver Disease Risk Prediction
-- Voice Controlled Medical Data Entry (in progress)
-
-## Technologies
-
-Python • Machine Learning • Data Analysis • Backend Development
+## Focus Areas
+Artificial Intelligence • Machine Learning • Intelligent Systems • Data Analysis • Backend Development
 
 ## Goals
-
-Develop intelligent systems that assist professionals in healthcare and data analysis.
+To design and develop intelligent software systems that support critical decision-making in areas such as healthcare, automation, and complex engineering environments.
