@@ -9,6 +9,15 @@ Software Engineering student focused on Artificial Intelligence, intelligent sys
 - Working on projects related to healthcare technologies, assistive systems, and disaster response platforms
 - Curious about advanced engineering systems and real-world AI applications
 
+## Tech Stack
+
+💻 **Languages:** Python, Java, C  
+🧠 **AI / ML:** Machine Learning, TensorFlow, Scikit-learn  
+⚙️ **Backend:** FastAPI, Flask  
+🖥 **Frontend:** React, React Native  
+🗄 **Database:** SQL, SQLite  
+🛠 **Tools:** Git, GitHub, VS Code, Google Colab
+
 ## Projects
 
 - AI Medical Check-Up Recommendation System
