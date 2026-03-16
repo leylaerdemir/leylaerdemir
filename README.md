@@ -18,6 +18,12 @@ Software Engineering student focused on Artificial Intelligence, intelligent sys
 🗄 **Database:** SQL, SQLite  
 🛠 **Tools:** Git, GitHub, VS Code, Google Colab
 
+## GitHub Stats
+
+![Leyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=leylaerdemir&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leylaerdemir&layout=compact&theme=tokyonight)
+
 ## Projects
 
 - AI Medical Check-Up Recommendation System
