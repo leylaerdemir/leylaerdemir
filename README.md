@@ -1,4 +1,4 @@
-<img width="1280" height="320" alt="Software Developer" src="https://github.com/user-attachments/assets/67a32c8e-6edd-435d-b385-1dd311d29b09" />
+<img width="1280" height="320" alt="Software Developer" src="https://github.com/user-attachments/assets/38f2e569-82e5-4a64-b852-3e46dc519cea" />
 
 # Hi, I'm Leyla 👋
 
