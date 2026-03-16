@@ -10,9 +10,9 @@ Working on projects related to healthcare technologies, assistive systems, and d
 Curious about advanced engineering systems and real-world AI applications
 
 ## Projects
--AI Medical Check-Up Recommendation System
--Navicane – AI Assistive Navigation System for the Visually Impaired
--Disaster Relief Management System
+•AI Medical Check-Up Recommendation System
+•Navicane – AI Assistive Navigation System for the Visually Impaired
+•Disaster Relief Management System
 
 ## Focus Areas
 Artificial Intelligence • Machine Learning • Intelligent Systems • Data Analysis • Backend Development
